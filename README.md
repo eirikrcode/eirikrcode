@@ -1,4 +1,4 @@
-## Hi there 👋
+## This repo contains my scientific scripts, my experimental musical projects, xenharmonic .scl files with custom scales and my other works related to me studying how i, part of the endless flow of experience, how i interact with this experience and study it - that's basically it, experience studying experience, Schopenhauerian Will looping and representing on itself, the flow of the Dao, the Sunyata - ok i'm getting a bit carried away. That's it, i guess.
 
 <!--
 **eirikrcode/eirikrcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
